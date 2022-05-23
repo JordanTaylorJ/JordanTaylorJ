@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Jordan!
+
+Current student in a full stack software engineering program.
+
+I am experienced 💫 working with JavaScript, HTML, CSS, and Python. I'm currently 🔭 finishing my React projects. I look forward to 🌱 working with Ruby, SQL, Redux, and Rails.  
+
+I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot liscense ✈️. 
+
+When I'm not coding, I'm 🏔 outdoors 🏔 . 🏂 🚵‍♀️ 🛹 . 
+
+⚡ Fun Facts: I also paint 🎨 and have played eight instruments throughout my life 🎷 🎸 🎻 🎼 . 
+
+
+Happy to have you here,
+😃 Lets connect!
 
 <!--
 **JordanTaylorJ/JordanTaylorJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
