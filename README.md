@@ -6,7 +6,7 @@ I am experienced 💫 working with JavaScript, HTML, CSS, and Python. I'm curren
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot liscense ✈️. 
 
-When I'm not coding, I'm 🏔 outdoors 🏔 . 🏂 🚵‍♀️ 🛹 . 
+When I'm not coding, I'm 🏔 outdoors 🏔 - 🏂 🚵‍♀️ 🛹 - 
 
 ⚡ Fun Facts: I also paint 🎨 and have played eight instruments throughout my life 🎷 🎸 🎻 🎼 . 
 
