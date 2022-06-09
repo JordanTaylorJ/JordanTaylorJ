@@ -4,7 +4,7 @@ Current student in a full stack software engineering program.
 
 I am experienced 💫 working with JavaScript, HTML, CSS, and Python. I'm currently 🔭 finishing my React projects. I look forward to 🌱 working with Ruby, SQL, Redux, and Rails.  
 
-I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot liscense ✈️. 
+I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
 When I'm not coding, I'm 🏔 outdoors 🏔 - 🏂 🚵‍♀️ 🛹 - 
 
