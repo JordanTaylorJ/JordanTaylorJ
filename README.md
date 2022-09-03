@@ -2,7 +2,7 @@
 
 Current student in a full stack software engineering program.
 
-I am experienced 💫 working with JavaScript, React, HTML, CSS, and Python. I'm currently 🔭 learning about Ruby and SQL! I look forward to 🌱 working with Redux and Rails.  
+I am experienced 💫 working with JavaScript, React, HTML, CSS, Python, Ruby and SQL. I'm currently 🔭 learning about Redux and Rails.  
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
