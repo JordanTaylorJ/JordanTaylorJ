@@ -18,6 +18,10 @@ Happy to have you here,
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanTaylor&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JordanTaylorJ&theme=react)](https://git.io/streak-stats)
+
+
 <!--
 **JordanTaylorJ/JordanTaylorJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
