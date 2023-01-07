@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jordan!
+## Hi there 👋 I'm Jordan!
 
 Current student in a full stack software engineering program.
 
@@ -13,6 +13,8 @@ When I'm not coding, I'm 🏔 outdoors 🏔 - 🏂 🚵‍♀️ 🛹 -
 
 Happy to have you here,
 😃 Lets connect!
+
+### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanTaylorJ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
