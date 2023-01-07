@@ -2,7 +2,7 @@
 
 Current student in a full stack software engineering program.
 
-I am experienced 💫 working with JavaScript, React, HTML, CSS, Python, Ruby and SQL. I'm currently 🔭 learning about Rails. I look farward to 🌱 learning Redux.
+I am experienced 💫 working with JavaScript, React, HTML, CSS, Python, Ruby and SQL. I'm currently 🔭 learning about Rails. I look forward to 🌱 learning Redux.
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
@@ -14,6 +14,8 @@ When I'm not coding, I'm 🏔 outdoors 🏔 - 🏂 🚵‍♀️ 🛹 -
 Happy to have you here,
 😃 Lets connect!
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanTaylor&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JordanTaylorJ/JordanTaylorJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
