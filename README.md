@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Jordan!
 
-Current student in a full stack software engineering program.
+I am a recent graduate from a full stack software engineering program.
 
-I am experienced 💫 working with JavaScript, React, HTML, CSS, Python, Ruby and SQL. I'm currently 🔭 learning about Rails. I look forward to 🌱 learning Redux.
+I am experienced 💫 working with JavaScript, React, HTML, CSS, Ruby on Rails, and SQL. I'm currently 🔭 learning about Flask. I look forward to 🌱 building a full stack application utilizing the backend framework Flask and refreshing up on Python.
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
