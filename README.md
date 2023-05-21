@@ -2,7 +2,7 @@
 
 I am a recent graduate from a full stack software engineering program.
 
-I am experienced 💫 working with JavaScript, React, HTML, CSS, Ruby on Rails, and SQL. I'm currently 🔭 learning about Flask. I look forward to 🌱 building a full stack application utilizing the backend framework Flask and refreshing up on Python.
+I am experienced 💫 working with JavaScript, React, HTML, CSS, Ruby on Rails, and SQL. I'm currently 🔭 learning about Flask. I look forward to 🌱 refreshing up on Python and building a full stack application utilizing the backend framework Flask.
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
@@ -17,7 +17,6 @@ Happy to have you here,
 ### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordanTaylorJ&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanTaylor&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
