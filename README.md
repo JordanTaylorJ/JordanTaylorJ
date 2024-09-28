@@ -10,11 +10,9 @@
   </a>
 </div>
 
-# Hi there 👋
+# Hi there - I'm Jordan 👋
 
-I am a recent graduate from a full stack software engineering program.
-
-I am experienced 💫 working with JavaScript, React, HTML, CSS, Ruby on Rails, and SQL. I'm currently 🔭 learning about Flask. I look forward to 🌱 refreshing up on Python and building a full stack application utilizing the backend framework Flask.
+I am a full stack software engineer. I am experienced 💫 working with JavaScript, Ruby, Python, React, Ruby on Rails, HTML, CSS, and SQL. I'm currently 🔭 learning new frameworks like Tailwind CSS and Next.js. I look forward to 🌱 refreshing up on Python and building a full stack application utilizing the backend framework Flask.
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
