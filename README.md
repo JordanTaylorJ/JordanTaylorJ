@@ -12,7 +12,7 @@
 
 # Hi there - I'm Jordan 👋
 
-I am a full stack software engineer. I am experienced 💫 working with JavaScript, Ruby, Python, React, Ruby on Rails, HTML, CSS, and SQL. I'm currently 🔭 learning new frameworks like Tailwind CSS and Next.js. I look forward to 🌱 refreshing up on Python and building a full stack application utilizing the backend framework Flask.
+I am a full stack software engineer. I am experienced 💫 working with JavaScript, Ruby, Python, React, and Ruby on Rails. I'm currently 🔭 learning about React Native and mobile development. I look forward to 🌱 learning new skills!
 
 I also have a bachelors in accounting 🧮 and marketing 📈 from Colorado State University 💙 and a fixed-wing private pilot license ✈️. 
 
